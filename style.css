@@ -1,3 +1,4 @@
+
 @font-face {
     font-family: "Raleway_bold";
     font-weight: 400;
@@ -21,7 +22,7 @@
     padding: 0;
     margin: 0;
 }
-.foot_one{
+.foot1{
     background-color: var(--color-gr);
 }
 html {
@@ -38,7 +39,7 @@ a {
     color: inherit;
     text-decoration: none;
 }
-.mob1{
+.mobil1{
     display: none;
 }
 body {
@@ -62,7 +63,7 @@ button:hover {
     max-width: 1440px;
     margin: 0 auto;
 }
-.hed-for{
+.heder-for{
     width: 470px;
     display: flex;
     align-items: center;
@@ -70,25 +71,25 @@ button:hover {
     font-family: var(--family);
     font-size: var(--size_20);
 }
-.hed_item{
+.heder_item{
     width: 143px;
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 8px;
 }
-.hed_box{
+.heder_box{
     width: 1110px;
     display: flex;
     justify-content: space-between;
     padding: 33px 0 32px 0;
     background-color: var(--color-gr);
 }
-.hed-star{
+.heder-star{
     width: 35px;
     height: 35px;
 }
-.hed-tx{
+.heder-tx{
     color: var(--col_grin);
     font-family: Raleway_bold;
     font-size: var(--size_20);
@@ -96,7 +97,7 @@ button:hover {
 .main_info3{
     margin-top: 30px;
 }
-.main-brd{
+.main-bird{
     margin-left: 165px;
 }
 .main_p11{
@@ -105,7 +106,7 @@ button:hover {
     line-height: 110%;
     font-weight: 400;
 }
-.main_displey{
+.main_displ{
     display: flex;
 }
 .main_box{
@@ -490,16 +491,16 @@ h2{
         max-width: 690px;
         
     }
-    .hed-for {
+    .heder-for {
         font-size: var(--size_18);
         width: 446px;
         margin-right: 0;
     }
-    .hed_item{
+    .heder_item{
         margin-left: 0;
         margin-right: 101px;
     }
-    .main-brd{
+    .main-bird{
         margin-left: 0;
     }
     .bird11{
@@ -589,7 +590,7 @@ h2{
         margin-left: 0;
         width: 690px;
     }
-    .foot_one{
+    .foot1{
         display: block;
     }
     .foot_690{
@@ -606,13 +607,13 @@ h2{
     .container {
         max-width: 320px;
     }
-    .hede_box{
+    .heder_box{
         display: block;
     }
     .mobil{
         display: none;
     }
-    .mob1{
+    .mobil1{
         display: block;
     }
     .heder_item{
@@ -620,7 +621,7 @@ h2{
         width: 290px;
         padding: 15px 17px 15px 16px;
     }
-    .hed_box{
+    .heder_box{
         padding: 0 0 0 0;
     }
     .heder-for{
@@ -760,7 +761,7 @@ h2{
     .foot_sec1{
         display: block;
     }
-    .foot_one{
+    .foot1{
         display: block;
     }
     .foot_non{
@@ -840,4 +841,4 @@ h2{
         margin-top: 20px;
         display: block;
     }
-}
+} 
